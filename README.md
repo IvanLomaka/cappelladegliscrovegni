@@ -70,7 +70,6 @@ As part of the award, every member of the team received a complimentary **ICDL�
 | Year | Competition                                   | Category                   | Result                          | Role           |
 | ---- | --------------------------------------------- | -------------------------- | ------------------------------- | -------------- |
 | 2023 | **To Digital Competence 4.0** – Veneto Region | Triennio (Upper Secondary) | 🥇 1st place – “Digitalizzando” | Lead developer |
-| 2023 | *Same*                                        | Triennio                   | 🥈 2nd place – “Art Carryers”   | Lead developer |
 
 *Official ranking: USR Veneto Prot. 15352/09‑06‑2023*
 *Prize:* Complimentary ICDL Full Standard certification for the entire class.
