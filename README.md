@@ -90,4 +90,4 @@ As part of the award, every member of the team received a complimentary **ICDLâ€
 This project was created strictly for educational purposes. All rights to the artworks and photographic material belong to their respective owners. Please contact the maintainers for any usage beyond personal or academic viewing.
 
 ---
-Created by Ivan & Tommaso | Liceo Duca degli Abruzzi | March 2022
+Created by Ivan & Tommaso | Liceo Duca degli Abruzzi | March 2023
